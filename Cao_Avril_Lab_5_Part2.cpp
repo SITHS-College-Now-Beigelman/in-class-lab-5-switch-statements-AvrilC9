@@ -1,6 +1,6 @@
 // Avril Cao
 // Lab 5 Part 2
-// Septemer 10, 2024
+// October 8, 2024
 
 #include <iostream>
 // <iostream> is needed to use cout
