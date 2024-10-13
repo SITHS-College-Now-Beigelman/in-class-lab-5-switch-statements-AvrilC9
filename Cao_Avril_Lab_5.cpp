@@ -1,6 +1,6 @@
 // Avril Cao
 // Lab 5 Part 1
-// Septemer 8, 2024
+// October 8, 2024
 
 #include <iostream> 
 #include <iomanip>
